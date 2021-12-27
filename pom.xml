@@ -46,7 +46,7 @@
         </dependency>
         <dependency>
             <groupId>de.kaiserpfalz-edv.rpg</groupId>
-            <artifactId>drivethru</artifactId>
+            <artifactId>kp-rpg-drivethru</artifactId>
         </dependency>
         <dependency>
             <groupId>de.kaiserpfalz-edv.rpg</groupId>
