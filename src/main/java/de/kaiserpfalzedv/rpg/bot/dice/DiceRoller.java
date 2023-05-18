@@ -21,8 +21,8 @@ import de.kaiserpfalzedv.rpg.core.dice.DiceParser;
 import de.kaiserpfalzedv.rpg.core.dice.mat.RollTotal;
 import io.quarkus.vertx.ConsumeEvent;
 
-import javax.enterprise.context.ApplicationScoped;
-import javax.inject.Inject;
+import jakarta.enterprise.context.ApplicationScoped;
+import jakarta.inject.Inject;
 import java.util.StringJoiner;
 
 @ApplicationScoped

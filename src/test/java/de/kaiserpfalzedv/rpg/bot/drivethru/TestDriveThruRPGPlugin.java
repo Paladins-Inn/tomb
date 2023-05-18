@@ -34,7 +34,7 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.slf4j.MDC;
 
-import javax.inject.Inject;
+import jakarta.inject.Inject;
 import java.time.Clock;
 import java.time.OffsetDateTime;
 import java.util.Optional;

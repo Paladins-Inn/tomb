@@ -19,9 +19,9 @@ package de.kaiserpfalzedv.rpg.bot.dice;
 
 import de.kaiserpfalzedv.rpg.core.dice.mat.RollTotal;
 
-import javax.inject.Inject;
-import javax.ws.rs.*;
-import javax.ws.rs.core.MediaType;
+import jakarta.inject.Inject;
+import jakarta.ws.rs.*;
+import jakarta.ws.rs.core.MediaType;
 
 @Path("/apis/die/v1")
 @Consumes(MediaType.APPLICATION_JSON)
